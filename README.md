@@ -1,5 +1,11 @@
-# ScammerChecker
-A checkboxes list to see what have you done with scammer
+### Solar System Exploration, 1950s – 1960s
 
-- [] I have done this
-- [] I have done this also
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
