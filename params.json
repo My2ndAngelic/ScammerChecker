@@ -1,6 +1,6 @@
 {
-  "name": "Scammerchecker",
+  "name": "ScammerChecker",
   "tagline": "A checkboxes list to see what scammer have done with you",
-  "body": "### Solar System Exploration, 1950s – 1960s\r\n\r\n- [ ] Mercury\r\n- [x] Venus\r\n- [x] Earth (Orbit/Moon)\r\n- [x] Mars\r\n- [ ] Jupiter\r\n- [ ] Saturn\r\n- [ ] Uranus\r\n- [ ] Neptune\r\n- [ ] Comet Haley\r\n",
+  "body": "Scammer Sub Lounge members proudly present\r\n\r\n# Scammer Checker - A checklist to see what scammer have done.\r\n\r\nHow to use this:\r\n\r\n- Open an issue\r\n- Post it\r\n- Use the checkboxes\r\n\r\nBy using this, you agreed to be monitored. Just kidding, fork it, kids.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
