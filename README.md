@@ -1,11 +1,11 @@
-### Solar System Exploration, 1950s – 1960s
+Scammer Sub Lounge members proudly present
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+# Scammer Checker - A checklist to see what scammer have done.
+
+How to use this:
+
+- Open an issue
+- Post it
+- Use the checkboxes
+
+By using this, you agreed to be monitored. Just kidding, fork it, kids.
